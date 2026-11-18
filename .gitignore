@@ -1,0 +1,17 @@
+dist/
+staging/
+ui-preview.png
+.DS_Store
+.build/
+.tools/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.zip
+*.dmg
+*.app/
+session.json
+Desktop Profile/
+IDE Profile/
